@@ -1,62 +1,24 @@
-# Hi, I'm Cosmas Saidi 👋
+# Cosmas Saidi
 
-Cybersecurity student focused on Linux security and binary exploitation.
+Computer Science student at Kenyatta University, focused on cybersecurity.
 
-Currently training on **pwn.college** to build practical offensive security skills.
+Currently training on [pwn.college](https://pwn.college) — working through Linux fundamentals and program interaction challenges.
 
----
+## Training Progress
 
-## 🎯 Current Focus
+**pwn.college**
 
-Learning Linux fundamentals and working toward binary exploitation.
+| Module | Status |
+|--------|--------|
+| Linux Luminarium | Complete |
+| Playing with Programs | In progress |
 
----
+## Repositories
 
-## 🛠️ Skills I'm Building
+- [pwn-college-writeups](https://github.com/CosmasSaidi/pwn-college-writeups) — Learning notes from pwn.college
+- [CYBERSECURITY-NOTES](https://github.com/CosmasSaidi/CYBERSECURITY-NOTES) — Security concepts reference
+- [portfolio-site](https://github.com/CosmasSaidi/portfolio-site) — Portfolio website
 
-| Area | Tools/Concepts |
-|------|----------------|
-| Linux | Bash, file permissions, processes, environment variables |
-| Scripting | Shell scripting, command substitution, piping |
-| Security | Privilege escalation concepts, PATH manipulation |
+## Contact
 
----
-
-## 📚 Training Progress
-
-**Platform:** pwn.college
-
-### Linux Luminarium ✅ Complete
-- [x] File permissions
-- [x] Shell scripting basics
-- [x] Environment variables
-- [x] Command substitution
-- [x] PATH manipulation
-- [x] Piping commands
-- [x] Process control (bg/fg)
-- [x] Using head, cat, tr
-- [x] Privilege escalation with su
-
-### Playing with Programs 🔄 In Progress
-- [x] Data Dealings (encoding, base64, hex, obfuscation)
-
----
-
-## 📂 Repositories
-
-| Repo | Description |
-|------|-------------|
-| [pwn-college-writeups](https://github.com/CosmasSaidi/pwn-college-writeups) | Challenge methodology and learning notes |
-| [CYBERSECURITY-NOTES](https://github.com/CosmasSaidi/CYBERSECURITY-NOTES) | Security concepts and mini-labs |
-| [portfolio-site](https://github.com/CosmasSaidi/portfolio-site) | Portfolio website |
-
----
-
-## 📫 Contact
-
-- Email: cosmassaidi2@gmail.com
-- GitHub: [@CosmasSaidi](https://github.com/CosmasSaidi)
-
----
-
-*Learning cybersecurity one challenge at a time.*
+cosmassaidi2@gmail.com
