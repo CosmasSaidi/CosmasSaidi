@@ -26,7 +26,7 @@ Learning Linux fundamentals and working toward binary exploitation.
 
 **Platform:** pwn.college
 
-### Linux Luminarium
+### Linux Luminarium ✅ Complete
 - [x] File permissions
 - [x] Shell scripting basics
 - [x] Environment variables
@@ -36,8 +36,9 @@ Learning Linux fundamentals and working toward binary exploitation.
 - [x] Process control (bg/fg)
 - [x] Using head, cat, tr
 - [x] Privilege escalation with su
-- [ ] SUID exploitation
-- [ ] More to come...
+
+### Playing with Programs 🔄 In Progress
+- [x] Data Dealings (encoding, base64, hex, obfuscation)
 
 ---
 
@@ -45,7 +46,8 @@ Learning Linux fundamentals and working toward binary exploitation.
 
 | Repo | Description |
 |------|-------------|
-| [pwn-college-writeups](https://github.com/CosmasSaidi/pwn-college-writeups) | My learning notes and methodology |
+| [pwn-college-writeups](https://github.com/CosmasSaidi/pwn-college-writeups) | Challenge methodology and learning notes |
+| [CYBERSECURITY-NOTES](https://github.com/CosmasSaidi/CYBERSECURITY-NOTES) | Security concepts and mini-labs |
 | [portfolio-site](https://github.com/CosmasSaidi/portfolio-site) | Portfolio website |
 
 ---
