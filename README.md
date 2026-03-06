@@ -1,24 +1,48 @@
-# Cosmas Saidi
+# Hi, I'm Cosmas Saidi 👋
 
-Computer Science student at Kenyatta University, focused on cybersecurity.
+**Aspiring Security Analyst** | Computer Science @ Kenyatta University
 
-Currently training on [pwn.college](https://pwn.college) — working through Linux fundamentals and program interaction challenges.
+Building practical cybersecurity skills through hands-on training and labs.
 
-## Training Progress
+---
 
-**pwn.college**
+### 🎯 Career Path
 
-| Module | Status |
-|--------|--------|
-| Linux Luminarium | Complete |
-| Playing with Programs | In progress |
+```
+SOC Analyst → Security Analyst → Penetration Tester → Security Engineer
+     ↑
+  Currently Here
+```
 
-## Repositories
+---
 
-- [pwn-college-writeups](https://github.com/CosmasSaidi/pwn-college-writeups) — Learning notes from pwn.college
-- [CYBERSECURITY-NOTES](https://github.com/CosmasSaidi/CYBERSECURITY-NOTES) — Security concepts reference
-- [portfolio-site](https://github.com/CosmasSaidi/portfolio-site) — Portfolio website
+### 🛠️ Skills
 
-## Contact
+**Linux Security**
+`File Permissions` `Process Management` `User Administration` `Environment Variables` `PATH Exploitation`
 
-cosmassaidi2@gmail.com
+**Enumeration & Methodology**
+`System Reconnaissance` `SUID/SGID Discovery` `Credential Hunting` `Privilege Escalation`
+
+**Tools & Scripting**
+`Bash` `grep/awk/sed` `Linux CLI`
+
+---
+
+### 📚 Training Platforms
+
+[![pwn.college](https://img.shields.io/badge/pwn.college-Practicing-blue?style=flat-square)](https://pwn.college)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Learning-green?style=flat-square)](https://tryhackme.com)
+[![Hack The Box](https://img.shields.io/badge/HackTheBox-Exploring-9fef00?style=flat-square)](https://hackthebox.com)
+
+---
+
+### 🔗 Connect
+
+[![Email](https://img.shields.io/badge/Email-cosmassaidi2%40gmail.com-red?style=flat-square&logo=gmail)](mailto:cosmassaidi2@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cosmas%20Saidi-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/cosmas-saidi-5965212a8)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-black?style=flat-square&logo=github)](https://cosmassaidi.github.io/portfolio-site)
+
+---
+
+<sub>Currently focused on Linux security fundamentals and privilege escalation techniques.</sub>
