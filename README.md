@@ -2,7 +2,7 @@
 
 # Cosmas Saidi
 
-**Security Analyst**
+**Security Analyst | Penetration Tester | Red Team Operator | Exploit Developer**
 
 <br>
 
