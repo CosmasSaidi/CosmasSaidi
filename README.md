@@ -56,9 +56,3 @@
 | [portfolio-site](https://github.com/CosmasSaidi/portfolio-site) | Portfolio with documentation |
 
 ---
-
-<div align="center">
-
-Linux security and penetration testing
-
-</div>
