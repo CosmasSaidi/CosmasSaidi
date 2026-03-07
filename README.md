@@ -22,15 +22,14 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ Focus Areas
+### 🛡️ Skills
 
-```
-Linux Security       ████████████████░░  85%
-System Enumeration   ██████████████░░░░  75%
-Privilege Escalation ████████████░░░░░░  65%
-Shell Scripting      ██████████░░░░░░░░  55%
-Web Security         ████████░░░░░░░░░░  45%
-```
+![Linux Security](https://img.shields.io/badge/Linux_Security-00ff00?style=flat-square)
+![System Enumeration](https://img.shields.io/badge/System_Enumeration-00cc00?style=flat-square)
+![Privilege Escalation](https://img.shields.io/badge/Privilege_Escalation-009900?style=flat-square)
+![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-006600?style=flat-square)
+![Web Security](https://img.shields.io/badge/Web_Security-004400?style=flat-square)
+![Process Management](https://img.shields.io/badge/Process_Management-003300?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
@@ -66,17 +65,13 @@ Web Security         ████████░░░░░░░░░░  45%
 
 <div align="center">
 
-### 📊 Current Learning
+### 📈 Current Focus
 
-```
-┌─────────────────────────────────────────────────────┐
-│  Linux System Enumeration  ░░░░░░░░░░░░░░░░░░ 100%  │
-│  Network Reconnaissance    ░░░░░░░░░░░░░░░░░░  90%  │
-│  Web Security Fundamentals ░░░░░░░░░░░░░░░░░░  85%  │
-│  Shell Scripting           ░░░░░░░░░░░░░░░░░░  80%  │
-│  Binary & Data Basics      ░░░░░░░░░░░░░░░░░░  75%  │
-└─────────────────────────────────────────────────────┘
-```
+- Linux system enumeration
+- Network reconnaissance
+- Web security fundamentals
+- Shell scripting & automation
+- Binary and data basics
 
 <br>
 
