@@ -24,6 +24,8 @@
 - Shell Scripting
 - Web Security
 - Process Management
+- Networking Fundamentals
+- HTTP & DNS Analysis
 
 </td>
 <td width="50%" valign="top">
@@ -40,6 +42,8 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square)
 
 </td>
 </tr>
