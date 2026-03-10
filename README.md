@@ -26,6 +26,7 @@
 - Process Management
 - Networking Fundamentals
 - HTTP & DNS Analysis
+- Virtualization
 
 </td>
 <td width="50%" valign="top">
