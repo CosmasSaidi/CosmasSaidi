@@ -27,6 +27,8 @@
 - Networking Fundamentals
 - HTTP & DNS Analysis
 - Virtualization
+- Cloud Computing
+- OS Security
 
 </td>
 <td width="50%" valign="top">
