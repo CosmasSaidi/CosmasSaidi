@@ -29,6 +29,7 @@
 - Virtualization
 - Cloud Computing
 - OS Security
+- Cryptography Concepts
 
 </td>
 <td width="50%" valign="top">
@@ -46,6 +47,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-00457C?style=flat-square)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square)
 
 </td>
