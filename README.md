@@ -30,6 +30,8 @@
 - Cloud Computing
 - OS Security
 - Cryptography Concepts
+- Packet Analysis
+- Reconnaissance
 
 </td>
 <td width="50%" valign="top">
@@ -48,6 +50,7 @@
 ![Kali](https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-00457C?style=flat-square)
+![Gobuster](https://img.shields.io/badge/Gobuster-5C2D91?style=flat-square)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square)
 
 </td>
