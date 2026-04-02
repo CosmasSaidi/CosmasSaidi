@@ -18,20 +18,14 @@
 
 ### Skills
 
-- Linux Security
-- System Enumeration
-- Privilege Escalation
-- Shell Scripting
-- Web Security
-- Process Management
-- Networking Fundamentals
-- HTTP & DNS Analysis
-- Virtualization
-- Cloud Computing
-- OS Security
-- Cryptography Concepts
-- Packet Analysis
-- Reconnaissance
+- **Operating Systems & Linux Security:** Linux hardening, user/group controls, file permissions, process visibility, shell operations
+- **Enumeration & Reconnaissance:** host/service discovery, attack-surface mapping, web fingerprinting, route/content enumeration
+- **Network & Protocol Analysis:** TCP/IP and port/service analysis, DNS/HTTP inspection, packet workflow interpretation
+- **Web Security Fundamentals:** request/response analysis, header-based risk visibility, input-handling and auth testing awareness
+- **Cryptography & Credential Security:** CIA triad application, encryption models, hashing principles, credential-exposure risk analysis
+- **Offensive Workflow Methodology:** reconnaissance → scanning → enumeration → validation → reporting (authorized scope)
+- **Defensive Translation:** detection thinking, remediation prioritization, hardening strategy, monitoring-oriented investigation
+- **Lab Operations:** virtualized security labs, controlled exploitation lifecycle reasoning, repeatable documentation discipline
 
 </td>
 <td width="50%" valign="top">
