@@ -53,12 +53,10 @@
 
 ---
 
-### Repositories
+## Repositories
 
 | Repository | Description |
 |------------|-------------|
 | [cybersecurity-writeups](https://github.com/CosmasSaidi/cybersecurity-writeups) | Writeups from pwn.college, TryHackMe, HTB |
 | [security-notes](https://github.com/CosmasSaidi/CYBERSECURITY-NOTES) | Linux security and methodology notes |
 | [portfolio-site](https://github.com/CosmasSaidi/portfolio-site) | Portfolio with documentation |
-
----
