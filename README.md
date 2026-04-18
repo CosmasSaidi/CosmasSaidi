@@ -2,7 +2,7 @@
 
 # Cosmas Saidi
 
-**Cybersecurity Learner | Security Documentation Builder | Early Practical Pentesting**
+**Security Analyst | Penetration Tester**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge)](https://cosmassaidi.github.io/portfolio-site)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cosmas-saidi-5965212a8)
@@ -12,52 +12,53 @@
 
 ---
 
-## Professional Snapshot
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- Built a full dual-boot security workstation (`Kali Linux + Windows`) for hands-on learning
-- Set up and operated an independent local vulnerable web lab (`VulnVault`) for controlled testing
-- Practiced core web vulnerability classes conceptually: input handling failures, injection risks, and browser-side execution risks
-- Documented repeatable learning workflows across Linux, HTTP, reconnaissance, and web security fundamentals
-- Focused on concept-first writeups and methodology notes (no direct platform solutions)
+### Skills
 
----
+- **Operating Systems & Linux Security:** Linux hardening, user/group controls, file permissions, process visibility, shell operations
+- **Enumeration & Reconnaissance:** host/service discovery, attack-surface mapping, web fingerprinting, route/content enumeration
+- **Network & Protocol Analysis:** TCP/IP and port/service analysis, DNS/HTTP inspection, packet workflow interpretation
+- **Web Security Fundamentals:** request/response analysis, header-based risk visibility, input-handling and auth testing awareness
+- **Cryptography & Credential Security:** CIA triad application, encryption models, hashing principles, credential-exposure risk analysis
+- **Offensive Workflow Methodology:** reconnaissance → scanning → enumeration → validation → reporting (authorized scope)
+- **Defensive Translation:** detection thinking, remediation prioritization, hardening strategy, monitoring-oriented investigation
+- **Lab Operations:** virtualized security labs, controlled exploitation lifecycle reasoning, repeatable documentation discipline
 
-## Core Skills
+</td>
+<td width="50%" valign="top">
 
-- **Linux Operations:** shell navigation, permissions, processes, environment variables, and scripting fundamentals
-- **Web Security Concepts:** request/response flow, authentication logic risk, input validation and output encoding principles
-- **Recon & Enumeration:** attack-surface mapping, endpoint discovery, and service visibility analysis
-- **Tooling Workflow:** Burp Suite (interception and request analysis), Gobuster (resource discovery), Nmap (exposure mapping)
-- **Security Thinking:** offensive-to-defensive translation, risk prioritization, and mitigation-oriented note taking
+### Training Platforms
 
----
+[![pwn.college](https://img.shields.io/badge/pwn.college-0066CC?style=flat-square)](https://pwn.college)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com)
+[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)](https://hackthebox.com)
 
-## Learning Milestones
+### Tools
 
-- **System setup completed:** Kali installed and validated with Python, pip, Git, Nmap, and Burp Suite
-- **Local lab operational:** vulnerable app deployment and browser-based testing on localhost
-- **Practical progression:** moved from fundamentals to early hands-on assessment workflow
-- **Documentation discipline:** converted experiments into structured notes, summaries, and reusable references
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-00457C?style=flat-square)
+![Gobuster](https://img.shields.io/badge/Gobuster-5C2D91?style=flat-square)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square)
 
----
-
-## Repository Map
-
-| Repository | Focus |
-|------------|-------|
-| [cybersecurity-writeups](https://github.com/CosmasSaidi/cybersecurity-writeups) | Hands-on learning summaries, methodology writeups, and concept-first lab notes |
-| [security-notes](https://github.com/CosmasSaidi/CYBERSECURITY-NOTES) | Structured references for Linux security, web security, enumeration, and methodology |
-| [portfolio-site](https://github.com/CosmasSaidi/portfolio-site) | Professional web portfolio presenting skills, journey, and documentation highlights |
-
----
-
-## Current Direction
-
-- Deepen web security fundamentals (especially input handling and injection defense)
-- Strengthen Burp Suite workflow fluency for request analysis
-- Expand enumeration depth with richer interpretation of findings
-- Continue building high-quality security notes suitable for junior security role readiness
+</td>
+</tr>
+</table>
 
 ---
 
-*This profile emphasizes concepts, skills, writeups, and notes only.*
+### Repositories
+
+| Repository | Description |
+|------------|-------------|
+| [cybersecurity-writeups](https://github.com/CosmasSaidi/cybersecurity-writeups) | Writeups from pwn.college, TryHackMe, HTB |
+| [security-notes](https://github.com/CosmasSaidi/CYBERSECURITY-NOTES) | Linux security and methodology notes |
+| [portfolio-site](https://github.com/CosmasSaidi/portfolio-site) | Portfolio with documentation |
+
+---
