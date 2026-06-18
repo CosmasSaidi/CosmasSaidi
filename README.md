@@ -49,6 +49,7 @@
 ![Kali](https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-00457C?style=flat-square)
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 ![Gobuster](https://img.shields.io/badge/Gobuster-5C2D91?style=flat-square)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square)
 
@@ -65,12 +66,6 @@
 - Introduction to Online Trust and Safety
 - Community Network Readiness Assessment Program
 - Community Networking Concepts and Deployment Readiness
-
-### Current Focus
-
-- Expanding Linux systems administration skills
-- Deepening virtualization and enterprise infrastructure knowledge
-- Building Active Directory, cloud, SOC, and cybersecurity engineering capability
 
 ---
 
