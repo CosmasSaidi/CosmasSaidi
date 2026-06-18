@@ -2,7 +2,7 @@
 
 # Cosmas Saidi
 
-**Penetration Tester | Network & Internet Infrastructure | Security Analyst | Red Team**
+**Junior Cybersecurity Engineer | Network Security Analyst | Web Application Security**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge)](https://cosmassaidi.github.io/portfolio-site)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cosmas-saidi-5965212a8)
