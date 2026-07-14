@@ -21,7 +21,7 @@
 - **Operating Systems & Linux Security:** Linux hardening, user/group controls, file permissions, process visibility, shell operations
 - **Network & Internet Infrastructure:** computer network design, TCP/IP fundamentals, routing and switching, VLANs, DHCP, DNS, community networking, Internet governance
 - **Internet Society Learning Platform:** network design and deployment, Internet governance, online trust and safety, community network readiness, deployment planning
-- **Cisco Packet Tracer:** comprehensive enterprise networking skills including multi-switch LAN design, Layer 2/Layer 3 switching, IEEE 802.1Q trunking, SVIs, inter-VLAN routing, static/dynamic routing (OSPF), NAT, enterprise hierarchical architecture, subnetting, ARP/ICMP validation, network troubleshooting, and enterprise segmentation principles
+- **Cisco Packet Tracer:** comprehensive enterprise networking skills including Cisco 2911 routers, Cisco 3560 Layer 3 switches, Cisco 2960 Layer 2 switches, wireless access points, wireless routers, DHCP/DNS/HTTP servers, multi-switch LAN design, Layer 2/Layer 3 switching, IEEE 802.1Q trunking, SVIs, inter-VLAN routing, static/dynamic routing (OSPF), NAT, enterprise hierarchical architecture, subnetting, ARP/ICMP validation, network troubleshooting, and enterprise segmentation principles
 - **Enumeration & Reconnaissance:** host/service discovery, attack-surface mapping, web fingerprinting, route/content enumeration
 - **Network & Protocol Analysis:** TCP/IP and port/service analysis, DNS/HTTP inspection, packet workflow interpretation
 - **Web Security Fundamentals:** request/response analysis, header-based risk visibility, input-handling and auth testing awareness
