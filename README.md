@@ -1,36 +1,46 @@
 # Cosmas Saidi
-### SOC Analyst — Detection & Incident Investigation
 
-Focused on security operations: detecting, triaging, and investigating security
-events across **Windows/Active Directory, Linux, and network telemetry**, and
-turning them into documented, defensible outcomes on a **SIEM**.
+**Security Operations | Detection Engineering | Incident Investigation**
 
-## Security Operations Focus
-- Detection & Incident Investigation
-- Detection Engineering
-- Threat Hunting
-- Incident Response
-- SOC case management & security documentation
+My portfolio documents completed detection and investigation work across
+Windows/Active Directory, Linux, network, and Azure telemetry. The projects
+demonstrate detection validation, false-positive analysis, event correlation,
+evidence preservation, and documented analyst conclusions.
+
+**Education:** Third-year Computer Science student at Kenyatta University.
+
+## Security Operations Portfolio
+
+| Project | Investigation & detection work |
+| --- | --- |
+| [SOC-001 — Linux Security Operations](https://github.com/CosmasSaidi/SOC-001-linux-security-operations) | Validated auditd-based file-change detection; investigated authorized and simulated-suspicious configuration changes with preserved audit records and file diffs. |
+| [SOC-002 — Windows Detection Engineering](https://github.com/CosmasSaidi/SOC-002-windows-detection-engineering) | Tuned encoded-PowerShell detection using Sysmon/WEF evidence, confirmed a Base64-reconstruction blind spot, and validated a complementary detection. |
+| [SOC-003 — Network Security Monitoring](https://github.com/CosmasSaidi/SOC-003-network-security-monitoring) | Validated Zeek/Suricata detections for controlled service discovery, DNS bursts, and periodic HTTP; correlated alerts with PCAP evidence. |
+| [SOC-004 — Windows Identity & Authentication](https://github.com/CosmasSaidi/SOC-004-Windows-Identity-Authentication-Detection-Engineering-Investigation) | Validated a Kerberos Event ID 4771 rule match and closed the controlled case as benign/expected; documented audit-policy and visibility limitations. |
+| [SOC-005 — Azure & Microsoft Sentinel](https://github.com/CosmasSaidi/SOC-005-Azure-Microsoft-SOC) | Validated Azure RBAC detection and Sentinel incident investigation, tuned for ingestion delay, developed KQL hunting queries, and validated Logic App incident enrichment. |
+
+## Supplementary Investigation
+
+**[TeamCity Network Forensics Investigation](https://github.com/CosmasSaidi/TeamCity-Network-Forensics-Investigation)** — Analyzed preserved Wireshark evidence from a
+CyberDefenders lab covering suspicious plugin upload submissions, shell commands,
+and Docker requests. Produced an evidence-linked timeline, qualified ATT&CK
+mappings, detection opportunities, and response recommendations. Command
+execution and compromise remain unverified; the report's KQL examples are
+proposed and untested.
 
 ## Technical Domains
-**Endpoint & Identity** — Windows / Active Directory · Microsoft Entra ID · Linux
-**Telemetry & Network Security Monitoring** — Windows Event Logs · Sysmon · auditd / journald · Wireshark · Zeek · Suricata
-**SIEM & Security Analytics** — Microsoft Sentinel · Microsoft Defender XDR · KQL
-**Cloud Security Operations** — AWS (CloudTrail · GuardDuty · IAM · Security Hub)
-**Automation** — Python · PowerShell · Bash
-**Threat-Informed Defense** — MITRE ATT&CK · Threat Intelligence / IOC enrichment
-**Supporting Security Operations** — Email / Phishing Security · Vulnerability Management
 
-## Selected Security Operations Work
-**[SOC-001 — Linux Security Operations](https://github.com/CosmasSaidi/SOC-001-linux-security-operations)**
-Controlled, enterprise-style security operations lab: auditd telemetry collection,
-file-modification detection, alert triage, investigation, evidence preservation,
-case documentation, and conservative MITRE ATT&CK / data-source mapping.
-*Self-directed lab — demonstrates methodology, not production experience.*
+Technologies and methods evidenced in the projects above:
 
-## SOC Workflow
-`telemetry → collection → SIEM → detection → alert → triage → investigation → correlation → scoping → escalation → response → documentation → detection improvement`
+| Security domain | Technologies & methods |
+| --- | --- |
+| Windows & identity security | Active Directory, Kerberos, Windows Security events, Sysmon, WEF, PowerShell logging |
+| Linux security monitoring | auditd, Bash |
+| Network security monitoring | Zeek, Suricata, Wireshark/tshark |
+| Azure security operations & SIEM | Microsoft Sentinel, KQL, Azure Activity, Azure RBAC, Entra Audit Logs, Logic Apps |
+| Detection & investigation methods | Sigma (offline), MITRE ATT&CK, Python, PowerShell |
 
 ## Contact
-- LinkedIn: https://www.linkedin.com/in/cosmas-saidi-5965212a8
-- Email: cosmassaidi2@gmail.com
+
+- [LinkedIn](https://www.linkedin.com/in/cosmas-saidi-5965212a8)
+- [Email](mailto:cosmassaidi2@gmail.com)
